@@ -51,3 +51,4 @@
 ||https://megogo.net^
 ||https://kinogo.biz/^
 ||doctorhouse.tv^$important
+||https://kinogo.pub^
