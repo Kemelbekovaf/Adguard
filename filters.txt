@@ -52,3 +52,5 @@
 ||https://kinogo.biz/^
 ||doctorhouse.tv^$important
 ||https://kinogo.pub^
+||play.google.com^
+||api.kinogram.best^
