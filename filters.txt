@@ -54,3 +54,7 @@
 ||https://kinogo.pub^
 ||play.google.com^
 ||api.kinogram.best^
+||filmy-smotret.cc^
+||z9mx.streamalloha.live^
+||hls.kinokrad.co^
+||https://kinokrad.co/^
