@@ -1,3 +1,23 @@
+!
+! Title: AdGuard DNS filter
+! Last modified: 2022-06-23T00:02:34.891Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.12
+!
+!
+! Source name: AdGuard Base filter ad servers
+!
+!
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+! The rules with hints are at the end of file.
+
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+!
+!
 ||https://doctorhouse.tv/^
 ||https://filmz.ru/serials/^
 ||https://app.setantasports.com^
